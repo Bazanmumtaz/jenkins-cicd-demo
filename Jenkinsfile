@@ -38,7 +38,7 @@ pipeline {
 
     post {
         success {
-            echo 'CI/CD pipeline created by FA23-BCS-022!'
+            echo 'CI/CD pipeline created by FA23-BCS-022 2nd time Commit!'
             echo 'CI/CD pipeline completed successfully!'
         }
         failure {
